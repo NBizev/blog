@@ -70,36 +70,36 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 56
         icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 26
         icon: chart-line
         icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 47
         icon: database
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Reading
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 54
+        icon: book
         icon_pack: fas
-      - name: Cats
+      - name: Programming
         description: ''
-        percent: 100
-        icon: cat
+        percent: 32
+        icon: code
         icon_pack: fas
       - name: Photography
         description: ''
-        percent: 80
+        percent: 67
         icon: camera-retro
         icon_pack: fas
 
